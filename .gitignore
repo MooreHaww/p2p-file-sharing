@@ -1,0 +1,11 @@
+# runtime files created by the app
+my_chunks/
+shared_chunks/
+username.txt
+ip_to_username.json
+username_to_ip.json
+content_dict.json
+*_log.txt
+__pycache__/
+*.py[cod]
+ext_registry.json
